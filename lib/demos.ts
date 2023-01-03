@@ -95,4 +95,14 @@ export const demos: { name: string; items: Item[] }[] = [
       },
     ],
   },
+  {
+    name: 'kmong',
+    items: [
+      {
+        name: '놀아보자',
+        slug: 'kmong',
+        description: 'Preview the supported styling solutions',
+      },
+    ],
+  },
 ];
